@@ -470,14 +470,14 @@ dessin = Canvas(fen, width=w, height=h, bg="white", highlightthickness=0)  # can
 
 # ----------------------------------------------------------------
 
-btnrec = PhotoImage(file='btnrec.png')
-btnoval = PhotoImage(file='btnoval.png')
-btnligne = PhotoImage(file='btnligne.png')
-btngomme = PhotoImage(file='btngomme.png')
-btncrayon = PhotoImage(file='btncrayon.png')
-btnspray = PhotoImage(file='btnspray.png')
-btntexte = PhotoImage(file='btntexte.png')
-btnpot = PhotoImage(file='btnpot.png')
+btnrec = PhotoImage(file='ico/btnrec.png')
+btnoval = PhotoImage(file='ico/btnoval.png')
+btnligne = PhotoImage(file='ico/btnligne.png')
+btngomme = PhotoImage(file='ico/btngomme.png')
+btncrayon = PhotoImage(file='ico/btncrayon.png')
+btnspray = PhotoImage(file='ico/btnspray.png')
+btntexte = PhotoImage(file='ico/btntexte.png')
+btnpot = PhotoImage(file='ico/btnpot.png')
 
 # ----------------------------------------------------------------
 
